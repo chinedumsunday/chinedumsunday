@@ -1,10 +1,6 @@
 # Hello there; welcome 👋🏾  
 
-[![Data Engineering Badge](https://img.shields.io/badge/-Data%20Engineer-6773E5?style=for-the-badge&logo=databricks&logoColor=white)](#)  
-[![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](#)  
-[![Data Analysis Badge](https://img.shields.io/badge/-Data%20Analysis-4CAF50?style=for-the-badge&logo=python&logoColor=white)](#)  
-[![Linkedin Badge](https://img.shields.io/badge/-Chinedum%20Sunday-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinedumsunday)](https://www.linkedin.com/in/chinedumsunday)  
-[![Twitter Badge](https://img.shields.io/badge/-@chinedum_e_s-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/chinedum_e_s)](https://twitter.com/chinedum_e_s)  
+[![Data Engineering Badge](https://img.shields.io/badge/-Data%20Engineer-6773E5?style=for-the-badge&logo=databricks&logoColor=white)](#)  [![Solidity Badge](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](#)  [![Data Analysis Badge](https://img.shields.io/badge/-Data%20Analysis-4CAF50?style=for-the-badge&logo=python&logoColor=white)](#) [![Linkedin Badge](https://img.shields.io/badge/-Chinedum%20Sunday-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinedumsunday)](https://www.linkedin.com/in/chinedumsunday)  [![Twitter Badge](https://img.shields.io/badge/-@chinedum_e_s-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/chinedum_e_s)](https://twitter.com/chinedum_e_s) 
 
 ---
 
