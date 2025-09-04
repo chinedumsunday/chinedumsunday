@@ -39,7 +39,7 @@
 
 ## 📈 GitHub Stats  
 
-| <img align="center" src="github-readme-stats-beta-ochre-23.vercel.app/api?username=chinedumsunday&show_icons=true&include_all_commits=true&hide_border=true" alt="Chinedum's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinedumsunday&langs_count=8&layout=compact&hide_border=true" alt="Chinedum's GitHub stats" /> |  
+| <img align="center" src="github-readme-stats.vercel.app/api?username=chinedumsunday&show_icons=true&include_all_commits=true&hide_border=true" alt="Chinedum's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinedumsunday&langs_count=8&layout=compact&hide_border=true" alt="Chinedum's GitHub stats" /> |  
 | ------------- | ------------- |  
 
 ---
