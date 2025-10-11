@@ -5,7 +5,7 @@
 ---
 
 👨🏾‍💻 **I’m Chinedum Emmanuel Sunday**  
-- 🛠️ Certified **Data Engineer** (via [DataCamp](https://www.datacamp.com)).  
+- 🛠️ Certified **Data Engineer** (via [DataCamp](https://www.datacamp.com/certificate/DE0013787697060)).  
 - 💡 Passionate about building **scalable data pipelines**, **smart contracts**, and turning raw data into **actionable insights**.  
 - 🌍 Actively exploring blockchain-powered systems, financial technology, and AI-driven applications.  
 
