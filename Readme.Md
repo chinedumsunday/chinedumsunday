@@ -1,56 +1,213 @@
-# Hello there; welcome 👋🏾
+<div align="center">
 
-[![Data Engineering Badge](https://img.shields.io/badge/-Data%20Engineer-6773E5?style=for-the-badge&logo=databricks&logoColor=white)](#) [![Data Analysis Badge](https://img.shields.io/badge/-Data%20Analysis-4CAF50?style=for-the-badge&logo=python&logoColor=white)](#) [![Linkedin Badge](https://img.shields.io/badge/-Chinedum%20Sunday-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chinedumsunday)](https://www.linkedin.com/in/chinedumsunday) [![Twitter Badge](https://img.shields.io/badge/-@chinedum_e_s-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/chinedum_e_s)](https://twitter.com/chinedum_e_s)
+# Chinedum Emmanuel Sunday
 
----
+### Software Engineer · Data Engineer · Blockchain Developer
 
-👨🏾‍💻 **I’m Chinedum Emmanuel Sunday**
-- 🛠️ Certified **Data Engineer** (via [DataCamp](https://www.datacamp.com/certificate/DE0013787697060)) with a B.S. in **Statistics**.
-- 💡 Passionate about building **scalable, end-to-end data pipelines**, optimizing data systems, and turning raw data into **actionable insights**.
-- 🌍 Actively exploring data solutions in financial technology, Web3, and AI-driven applications.
+**B.S. Statistics** · **Certified Data Engineer** · Building production systems across Web3, data infrastructure, and full-stack applications
 
----
+[![Blockchain](https://img.shields.io/badge/Blockchain-DAML%20%7C%20Cairo%20%7C%20Solidity-8B5CF6?style=for-the-badge)](#)
+[![Data Engineering](https://img.shields.io/badge/Data-ETL%20%7C%20Pipelines%20%7C%20Cloud-3B82F6?style=for-the-badge)](#)
+[![Full Stack](https://img.shields.io/badge/Full%20Stack-Python%20%7C%20Laravel%20%7C%20APIs-10B981?style=for-the-badge)](#)
 
-## 🚀 What I Do
-- **Data Engineering**: Designing, building, and orchestrating robust ETL/ELT pipelines using Python, SQL, Airflow, and dbt.
-- **Data Analysis**: Uncovering insights, performing data cleaning, and creating visualizations using Python (Pandas) and SQL.
-- **Cloud Data Solutions**: Implementing data models and warehouses on cloud platforms like AWS and Azure.
-- **Community Building**: Helping developers learn, grow, and collaborate on data-driven projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedumsunday-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedumsunday)
+[![Twitter](https://img.shields.io/badge/Twitter-@BlockNedu-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BlockNedu)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Certified%20Data%20Engineer-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DE0013787697060)
 
----
-
-## 🛠️ Tech Stack
-**Data Stack**: Python | SQL | Apache Airflow | dbt | Spark | Pandas | PostgreSQL | AWS | Azure
-**Other Tools**: Git | Docker | REST APIs | Power BI | Solidity
+</div>
 
 ---
 
-## 📌 Pinned Projects
+## About Me
 
-- 🪙 [**Cryptocurrency Market Data Pipeline**](https://github.com/chinedumsunday/coingecko_pipeline)
-  An automated ETL pipeline that extracts real-time crypto data from the CoinGecko API, transforms it with Pandas, and loads it for analysis.
+I'm a software engineer with a Statistics background who builds across the stack—from smart contracts and DeFi applications to data pipelines and production web systems. I focus on shipping working software that solves real problems.
 
-- ☀️ [**Weather Data Pipeline**](https://github.com/chinedumsunday/weather_pipeline)
-  An end-to-end pipeline that fetches weather data from the OpenWeatherMap API, performs data quality checks, and stores it in a structured format.
-
-- 🌍 [**Global Countries Data Pipeline**](https://github.com/chinedumsunday/countries_pipeline)
-  A pipeline designed to aggregate and standardize country-level data (e.g., population, geography) from multiple API sources into a unified database.
-
-- 🔗 [**Blockchain-Based Exam Results System**](https://github.com/chinedumsunday/blockchainresults)
-  A system for validating student exam results by integrating blockchain data with traditional databases.
+**Currently:** Contributing to the Canton Network ecosystem (DAML smart contracts) · Shipping DeFi apps on Starknet · Running automated systems in production
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Technical Skills
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinedumsunday&show_icons=true&include_all_commits=true&hide_border=true" alt="Chinedum's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinedumsunday&langs_count=8&layout=compact&hide_border=true" alt="Chinedum's GitHub stats" /> |
-| ------------- | ------------- |
+### Languages & Frameworks
+```
+Python          ████████████████████  Advanced — data pipelines, automation, APIs
+SQL             ████████████████████  Advanced — PostgreSQL, analytics, optimization
+JavaScript/TS   ████████████████░░░░  Proficient — full-stack applications
+Cairo           ████████████░░░░░░░░  Intermediate — Starknet smart contracts
+DAML            ████████████░░░░░░░░  Intermediate — Canton Network contracts
+Solidity        ████████████░░░░░░░░  Intermediate — EVM smart contracts
+PHP/Laravel     ████████████░░░░░░░░  Intermediate — web applications
+```
+
+### Data & Infrastructure
+| Category | Technologies |
+|----------|-------------|
+| **Data Engineering** | Apache Airflow · dbt · Spark · Pandas · ETL/ELT pipelines |
+| **Databases** | PostgreSQL · MySQL · Data warehousing |
+| **Cloud** | AWS (EC2, Lambda, S3) · Azure · Docker |
+| **APIs & Integration** | REST APIs · Telegram Bot API · Claude API · Webhooks |
+
+### Blockchain & Web3
+| Category | Technologies |
+|----------|-------------|
+| **Smart Contracts** | DAML (Canton Network) · Cairo (Starknet) · Solidity (EVM) |
+| **Protocols** | Stellar · Starknet · Ethereum |
+| **DeFi** | Vesu · AVNU · Payment infrastructure |
 
 ---
 
-## 🌱 Current Focus
-- Scaling data engineering projects with cloud-first design (AWS & Azure).
-- Mastering advanced features of Apache Airflow and dbt for complex orchestration.
-- Documenting my journey and sharing data engineering knowledge.
+## 📜 Education & Certifications
 
-📫 Let’s connect → [LinkedIn](https://www.linkedin.com/in/chinedumsunday) | [Twitter](https://twitter.com/chinedum_e_s)
+| Credential | Details |
+|------------|---------|
+| 🎓 **B.S. Statistics** | Foundational training in data analysis, probability, and quantitative methods |
+| 📊 **Certified Data Engineer** | [DataCamp Professional Certification](https://www.datacamp.com/certificate/DE0013787697060) |
+
+---
+
+## 🚀 Featured Projects
+
+### Blockchain & DeFi
+
+<table>
+<tr>
+<td width="50%">
+
+**🚀 StarkPay**
+> Onchain invoice & payment link generator on Starknet
+
+Built for Starkzap Developer Bounty Program. Merchants generate shareable payment links settled directly onchain.
+
+`Cairo` `Starknet` `DeFi` `Payments`
+
+</td>
+<td width="50%">
+
+**💰 StarkSave**
+> Automated savings app with DCA and yield
+
+Combines Vesu lending yield with AVNU DCA orders for automated savings that earn while you hold.
+
+`Cairo` `Vesu` `AVNU` `DeFi`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏦 Stablecoin Payment API**
+> Cross-border payment middleware on Stellar
+
+API-first stablecoin infrastructure for the NGN/USD corridor. Clean REST interface abstracting blockchain complexity.
+
+`Stellar` `Stablecoins` `REST API` `Fintech`
+
+</td>
+<td width="50%">
+
+**📜 DAML Smart Contracts**
+> Enterprise blockchain development
+
+Building smart contracts for the Canton Network ecosystem. Working toward Canton Onboarding Manager mini-app.
+
+`DAML` `Canton Network` `Enterprise`
+
+</td>
+</tr>
+</table>
+
+### Data Engineering & Automation
+
+<table>
+<tr>
+<td width="50%">
+
+**📰 MTL News Desk** — [mytradingland.com](https://mytradingland.com)
+> Production 6-layer automated news pipeline
+
+End-to-end system: RSS ingestion → LLM processing (Claude API) → Telegram approval bot → Laravel/Inertia.js backend. Running 24/7 on AWS EC2 with systemd services.
+
+`Python` `AWS EC2` `Claude API` `Laravel` `Telegram Bot`
+
+</td>
+<td width="50%">
+
+**🪙 Crypto Market Pipeline** — [Repository](https://github.com/chinedumsunday/coingecko_pipeline)
+> Real-time cryptocurrency ETL
+
+Automated extraction from CoinGecko API, transformation with Pandas, structured storage for analysis. Handles rate limiting and data validation.
+
+`Python` `Pandas` `REST APIs` `ETL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**☀️ Weather Data Pipeline** — [Repository](https://github.com/chinedumsunday/weather_pipeline)
+> End-to-end pipeline with quality checks
+
+Fetches weather data from OpenWeatherMap API, performs automated data quality validation, stores in structured format.
+
+`Python` `Airflow` `Data Quality` `ETL`
+
+</td>
+<td width="50%">
+
+**🌍 Global Countries Pipeline** — [Repository](https://github.com/chinedumsunday/countries_pipeline)
+> Multi-source data aggregation
+
+Aggregates and standardizes country-level data (population, geography, economics) from multiple APIs into unified database.
+
+`Python` `SQL` `APIs` `Data Integration`
+
+</td>
+</tr>
+</table>
+
+### Other Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Blockchain Results System](https://github.com/chinedumsunday/blockchainresults) | Student exam validation using blockchain integration | Solidity, Python, Web3 |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+| Stats | Languages |
+|-------|-----------|
+| <img src="https://github-readme-stats.vercel.app/api?username=chinedumsunday&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinedumsunday&langs_count=8&layout=compact&hide_border=true&theme=default" alt="Top Languages" /> |
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+- **Starkzap Bounty Program** — Shipping weekly DeFi applications on Starknet
+- **DAML Development** — Building toward smart contract developer certification for Canton Network
+- **Cross-Border Payments** — Designing Stellar-based stablecoin infrastructure
+- **Production Systems** — Maintaining and scaling the MTL News pipeline
+
+---
+
+## 💼 Open To
+
+- **Full-time roles** in blockchain development, data engineering, or backend/full-stack engineering
+- **Contract work** on Web3, DeFi, or data infrastructure projects
+- **Collaborations** on open-source projects in fintech or developer tooling
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedumsunday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedumsunday)
+[![Twitter](https://img.shields.io/badge/Twitter-@BlockNedu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BlockNedu)
+
+</div>
