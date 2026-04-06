@@ -23,7 +23,7 @@
 
 I'm a software engineer with a Statistics background who builds across the stack—from smart contracts and DeFi applications to data pipelines and production web systems. I focus on shipping working software that solves real problems.
 
-**Currently:** Community Moderator & Developer at [Cantor8](https://cantor8.tech) (Canton Network) · Shipping DeFi apps on Starknet · Running automated systems in production
+**Currently:** Community Moderator & Developer at [Cantor8](https://cantor8.io) (Canton Network) · Shipping DeFi apps on Starknet · Running automated systems in production
 
 ---
 
@@ -31,7 +31,7 @@ I'm a software engineer with a Statistics background who builds across the stack
 
 | Role | Company | Focus |
 |------|---------|-------|
-| **Community Moderator & Developer** | [Cantor8](https://cantor8.tech) | Canton Network ecosystem · DAML smart contracts · Developer community |
+| **Community Moderator & Developer** | [Cantor8](https://cantor8.io) | Canton Network ecosystem · DAML smart contracts · Developer community |
 
 ---
 
