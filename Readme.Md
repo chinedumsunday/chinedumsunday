@@ -23,7 +23,15 @@
 
 I'm a software engineer with a Statistics background who builds across the stack—from smart contracts and DeFi applications to data pipelines and production web systems. I focus on shipping working software that solves real problems.
 
-**Currently:** Contributing to the Canton Network ecosystem (DAML smart contracts) · Shipping DeFi apps on Starknet · Running automated systems in production
+**Currently:** Community Moderator & Developer at [Cantor8](https://cantor8.tech) (Canton Network) · Shipping DeFi apps on Starknet · Running automated systems in production
+
+---
+
+## 💼 Experience
+
+| Role | Company | Focus |
+|------|---------|-------|
+| **Community Moderator & Developer** | [Cantor8](https://cantor8.tech) | Canton Network ecosystem · DAML smart contracts · Developer community |
 
 ---
 
@@ -66,6 +74,7 @@ PHP/Laravel     ████████████░░░░░░░░  In
 | **Clear Communication** | I write documentation, explain technical concepts to non-technical stakeholders, and maintain async collaboration across timezones. |
 | **Ownership & Follow-Through** | I ship. The MTL News pipeline runs 24/7 in production because I built it, deployed it, and maintain it myself. |
 | **Adaptability** | Comfortable moving between blockchain, data engineering, and full-stack work depending on what the problem requires. |
+| **Community Building** | As Cantor8 moderator, I help developers learn, onboard to the ecosystem, and collaborate effectively. |
 
 ---
 
@@ -158,6 +167,16 @@ Automated extraction from CoinGecko API, transformation with Pandas, structured 
 <tr>
 <td width="50%">
 
+**🎬 YouTube Data Pipeline** — [Repository](https://github.com/chinedumsunday/youtube_pipeline)
+> Video & channel analytics ETL
+
+Extracts video metadata, channel statistics, and engagement metrics from YouTube API. Transforms and loads for trend analysis.
+
+`Python` `YouTube API` `Pandas` `ETL`
+
+</td>
+<td width="50%">
+
 **☀️ Weather Data Pipeline** — [Repository](https://github.com/chinedumsunday/weather_pipeline)
 > End-to-end pipeline with quality checks
 
@@ -166,6 +185,8 @@ Fetches weather data from OpenWeatherMap API, performs automated data quality va
 `Python` `Airflow` `Data Quality` `ETL`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🌍 Global Countries Pipeline** — [Repository](https://github.com/chinedumsunday/countries_pipeline)
@@ -176,14 +197,18 @@ Aggregates and standardizes country-level data (population, geography, economics
 `Python` `SQL` `APIs` `Data Integration`
 
 </td>
+<td width="50%">
+
+**🔗 Blockchain Results System** — [Repository](https://github.com/chinedumsunday/blockchainresults)
+> Exam validation on blockchain
+
+Student exam results validation using blockchain integration with traditional databases.
+
+`Solidity` `Python` `Web3`
+
+</td>
 </tr>
 </table>
-
-### Other Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Blockchain Results System](https://github.com/chinedumsunday/blockchainresults) | Student exam validation using blockchain integration | Solidity, Python, Web3 |
 
 ---
 
@@ -201,8 +226,8 @@ Aggregates and standardizes country-level data (population, geography, economics
 
 ## 🎯 What I'm Working On
 
+- **Cantor8** — Supporting the Canton Network developer community and building DAML applications
 - **Starkzap Bounty Program** — Shipping weekly DeFi applications on Starknet
-- **DAML Development** — Building toward smart contract developer certification for Canton Network
 - **Cross-Border Payments** — Designing Stellar-based stablecoin infrastructure
 - **Production Systems** — Maintaining and scaling the MTL News pipeline
 
