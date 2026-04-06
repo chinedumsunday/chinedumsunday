@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedumsunday-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedumsunday)
 [![Twitter](https://img.shields.io/badge/Twitter-@BlockNedu-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/BlockNedu)
+[![Email](https://img.shields.io/badge/Email-chinedumsunday5@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chinedumsunday5@gmail.com)
 [![DataCamp](https://img.shields.io/badge/DataCamp-Certified%20Data%20Engineer-03EF62?style=flat-square&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/DE0013787697060)
 
 </div>
@@ -56,12 +57,25 @@ PHP/Laravel     ████████████░░░░░░░░  In
 
 ---
 
+## 🤝 Soft Skills
+
+| Skill | How It Shows Up |
+|-------|-----------------|
+| **Problem-First Thinking** | I build solutions from real friction I've observed, not abstract ideas. Every project starts with a problem worth solving. |
+| **Self-Directed Learning** | Taught myself DAML, Cairo, and Stellar SDK while shipping projects. I don't wait for formal training to start building. |
+| **Clear Communication** | I write documentation, explain technical concepts to non-technical stakeholders, and maintain async collaboration across timezones. |
+| **Ownership & Follow-Through** | I ship. The MTL News pipeline runs 24/7 in production because I built it, deployed it, and maintain it myself. |
+| **Adaptability** | Comfortable moving between blockchain, data engineering, and full-stack work depending on what the problem requires. |
+
+---
+
 ## 📜 Education & Certifications
 
-| Credential | Details |
-|------------|---------|
-| 🎓 **B.S. Statistics** | Foundational training in data analysis, probability, and quantitative methods |
-| 📊 **Certified Data Engineer** | [DataCamp Professional Certification](https://www.datacamp.com/certificate/DE0013787697060) |
+| Credential | Institution | Details |
+|------------|-------------|---------|
+| 🎓 **B.S. Statistics** | University | Data analysis, probability theory, quantitative methods |
+| 📊 **Certified Data Engineer** | [DataCamp](https://www.datacamp.com/certificate/DE0013787697060) | Professional certification in data engineering |
+| 🎓 **Diploma in Data Engineering** | [AltSchool Africa](https://altschoolafrica.com) | Graduating May 2026 |
 
 ---
 
@@ -206,7 +220,7 @@ Aggregates and standardizes country-level data (population, geography, economics
 
 ### Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-chinedumsunday5@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinedumsunday5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chinedumsunday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinedumsunday)
 [![Twitter](https://img.shields.io/badge/Twitter-@BlockNedu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BlockNedu)
 
